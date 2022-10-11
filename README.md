@@ -1,1 +1,1 @@
-# Biometric-Attendance-Odoo-Integration
+# Odoo-With-Biometric-Attendance-Machine-Integration
